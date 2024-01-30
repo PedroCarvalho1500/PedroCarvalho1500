@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Hits
 
-<img src="https://www.takes.org/logo.png" height="64px"/>
 
-[![Build Status](https://travis-ci.org/zold-io/zold.svg?branch=master)](https://travis-ci.org/zold-io/zold)
 
 
