@@ -1,22 +1,12 @@
-### Hi there 👋
+
+
+### 👋 Hi, I'm Pedro Carvalho
+
+- 🎓 Computer Engineering graduate from INATEL
+- 🐍 PCEP-certified Python developer
+- 🌍 2.5 years of experience working with a U.S.-based company
+- 💻 Passionate about backend development, automation, and clean code
+- 🚀 Currently building and maintaining personal projects in Python
+
+
 Access my portfolio at https://pedrocarvalho1500.github.io/PORTFOLIO/ 
-
-<!--
-**PedroCarvalho1500/PedroCarvalho1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
