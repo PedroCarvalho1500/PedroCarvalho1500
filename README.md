@@ -3,8 +3,8 @@
 ### 👋 Hi, I'm Pedro Carvalho
 
 - 🎓 Computer Engineering graduate from INATEL
-- 🐍 PCEP-certified Python developer
-- 🌍 2.5 years of experience working with a U.S.-based company
+- 🐍 PCEP-certified Python developer: https://verify.openedg.org/?id=FNtk.sY8a.ai0X
+- 🌍 2.5 years of experience working with a U.S. based company
 - 💻 Passionate about backend development, automation, and clean code
 - 🚀 Currently building and maintaining personal projects in Python
 
